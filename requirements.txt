@@ -224,7 +224,6 @@ requests
 requests-html==0.10.0
 researchpy==0.2.3
 retrying==1.3.3
-Rtree==0.9.4
 scikit-learn 
 scipy 
 seaborn 
