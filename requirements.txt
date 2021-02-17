@@ -26,7 +26,7 @@ Brotli @ file:///opt/concourse/worker/volumes/live/6f34e4d0-4572-4e67-52c6-90034
 brotlipy==0.7.0
 bs4==0.0.1
 catalogue==1.0.0
-catboost @ https://pypi.org/packages/cp37/c/catboost/catboost-0.24.4-cp37-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+catboost==0.24.4
 category-encoders==2.1.0
 certifi==2020.12.5
 cffi==1.14.0
