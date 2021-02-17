@@ -7,7 +7,7 @@ anyjson==0.3.3
 appdirs==1.4.3
 appnope==0.1.0
 argon2-cffi==19.1.0
-arrow @ file:///opt/concourse/worker/volumes/live/6425c754-c61b-426d-5d86-9830f9404430/volume/arrow_1599270383874/work
+arrow
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astor==0.8.1
 async-generator==1.10
