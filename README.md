@@ -16,4 +16,4 @@ Files:
 - Flu_CatBoost-Feature_Selection.ipynb : feature selection using `mlxtend` library
 - Flu_CatBoost-tuned-OptunaCVI.ipynb : prediction using `CatBoost` with `Optuna` for hyperparameters tuning
 
-The file scored 0.8620. It can be greatly improved working on it (my current score, 16/02/21, is **0.8638 ranking 7th**). This is just a starting point showing some basic techniques. Spend some time analysing the dataset using EDA notebooks.
+The file scored 0.8608. It can be greatly improved working on it (my current score, 16/02/21, is **0.8638 ranking 7th**). This is just a starting point showing some basic techniques. Spend some time analysing the dataset using EDA notebooks.
