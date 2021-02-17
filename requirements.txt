@@ -121,7 +121,6 @@ stevedore==3.3.0
 strsimpy==0.2.0
 sweetviz==2.0.6
 tangled-up-in-unicode==0.0.6
-terminado==0.9.2
 testpath==0.4.4
 threadpoolctl==2.1.0
 tornado==6.1
