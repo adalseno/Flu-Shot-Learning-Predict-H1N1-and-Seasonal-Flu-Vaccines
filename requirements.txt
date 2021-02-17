@@ -70,7 +70,7 @@ dill
 distributed 
 dtale 
 eli5==0.10.1
-en-core-web-sm==2.0.0
+en-core-web-sm
 entrypoints==0.3
 ephem 
 et-xmlfile==1.0.1
@@ -273,6 +273,7 @@ typing-extensions
 ujson 
 urllib3 
 vega-datasets==0.8.0
+visions
 w3lib==1.21.0
 wasabi 
 wcwidth 
