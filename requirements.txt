@@ -197,9 +197,6 @@ Pygments
 pyjanitor 
 PyMeeus 
 pynput==1.7.1
-pyobjc-core==6.2.2
-pyobjc-framework-Cocoa==6.2.2
-pyobjc-framework-Quartz==6.2.2
 pyOpenSSL 
 pyparsing==2.4.7
 pyperclip 
