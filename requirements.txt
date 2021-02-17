@@ -230,7 +230,6 @@ seaborn
 seglearn==1.2.1
 Send2Trash==1.5.0
 setuptools-git==1.2
-Shapely==1.6.4.post1
 simplejson 
 singledispatch 
 six==1.15.0
