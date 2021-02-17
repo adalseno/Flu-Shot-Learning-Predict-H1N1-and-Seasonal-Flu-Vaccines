@@ -14,6 +14,6 @@ Files:
 - Flu_analysis-dtale_sweetwiz.ipynb : EDA using `dtale` and `SweetWiz`
 - Flu_analysis-manual.ipynb : manual EDA partly reusing code from benchmark
 - Flu_CatBoost-Feature_Selection.ipynb : feature selection using `mlxtend` library
-- XXX.ipynb : prediction using `CatBoost` with `Optuna` for hyperparameters tuning
+- Flu_CatBoost-tuned-OptunaCVI.ipynb : prediction using `CatBoost` with `Optuna` for hyperparameters tuning
 
-The file scored 0.86XX. It can be greatly improved working on it. This is just a starting point showing some basic techniques.
+The file scored 0.8620. It can be greatly improved working on it (my current score, 16/02/21, is **0.8638 ranking 7th**). This is just a starting point showing some basic techniques. Spend some time analysing the dataset using EDA notebooks.
