@@ -250,7 +250,6 @@ tabulate==0.8.7
 tangled-up-in-unicode 
 tblib 
 termcolor==1.1.0
-terminado==0.9.1
 testpath==0.4.4
 thinc 
 threadpoolctl 
