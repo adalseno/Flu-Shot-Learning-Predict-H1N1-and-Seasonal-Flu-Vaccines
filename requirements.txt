@@ -133,8 +133,6 @@ matplotlib
 missingno==0.4.2
 mistune==0.8.4
 mizani==0.7.1
-mkl-random==1.1.1
-mkl-service==2.3.0
 mlxtend==0.17.2
 mpmath==1.1.0
 msgpack==1.0.0
