@@ -17,3 +17,4 @@ Files:
 - Flu_CatBoost-tuned-OptunaCVI.ipynb : prediction using `CatBoost` with `Optuna` for hyperparameters tuning
 
 The file scored 0.8608. It can be greatly improved working on it (my current score, 16/02/21, is **0.8638 ranking 7th**). This is just a starting point showing some basic techniques. Spend some time analysing the dataset using EDA notebooks.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adalseno/Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines/HEAD?filepath=Flu_CatBoost-tuned-OptunaCVI.ipynb)
